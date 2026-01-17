@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/nodejs-vtiumajm:b6ab4a8e0bdb85fd4fdf3e907111069e3c781db8@sha256:4a728b7360fabf30dfa0b44fbab5b3f5890a360fff300a35862f4c3f0b39e8b5
+        - image: quay.io/tsscui/nodejs-vtiumajm:3a47e65ffe3e67bc5f6d700bd62efb72db7e6918@sha256:42574d5cc9043386575113d65d6ae5c78c5d63bcb8c0915a60f14eb8714752f8
           name: container-image
